@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/renamerau/PYRO-RENAME-BOT-au
+    repo: https://github.com/renamerau/PYRO-RENAME-BOT-au.git
     branch: main
     autoDeploy: false
     envVars:
